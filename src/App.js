@@ -47,19 +47,19 @@ function App() {
       <div className="collapse navbar-collapse" id="navbarResponsive">
         <ul className="navbar-nav text-uppercase ml-auto">
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#services" style={{color: 'yellow'}}>Services</a>
+            <a className="nav-link js-scroll-trigger" href="#services" style={{color: 'white'}}>Services</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#portfolio" style={{color: 'yellow'}}>Portfolio</a>
+            <a className="nav-link js-scroll-trigger" href="#portfolio" style={{color: 'white'}}>Portfolio</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#about" style={{color: 'yellow'}}>About</a>
+            <a className="nav-link js-scroll-trigger" href="#about" style={{color: 'white'}}>About</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#team" style={{color: 'yellow'}}>Team</a>
+            <a className="nav-link js-scroll-trigger" href="#team" style={{color: 'white'}}>Team</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#contact" style={{color: 'yellow'}}>Contact</a>
+            <a className="nav-link js-scroll-trigger" href="#contact" style={{color: 'white'}}>Contact</a>
           </li>
         </ul>
       </div>
@@ -70,9 +70,9 @@ function App() {
   <header className="masthead">
     <div className="container">
       <div className="intro-text">
-        <div className="intro-lead-in" style={{color: 'yellow'}}>Welcome To Our Studio!</div>
-        <div className="intro-heading text-uppercase" style={{color: 'yellow'}}>It's Nice To Meet You</div>
-        <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services" style={{backgroundColor: 'red', borderColor: 'red'}}>Tell Me More</a>
+        <div className="intro-lead-in" style={{color: 'white'}}>Welcome To Our Shelters!</div>
+        <div className="intro-heading text-uppercase" style={{color: 'white'}}>Why should you buy from us?</div>
+        <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services" style={{backgroundColor: 'red', borderColor: 'red', color: "black"}}>Tell Me More</a>
       </div>
     </div>
   </header>
@@ -354,7 +354,7 @@ function App() {
               <div className="clearfix"></div>
               <div className="col-lg-12 text-center">
                 <div id="success"></div>
-                <button id="sendMessageButton" className="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
+                <button id="sendMessageButton" className="btn btn-primary btn-xl text-uppercase" type="submit" style={{backgroundColor: 'red', borderColor: 'red', color: "black"}}>Send Message</button>
               </div>
             </div>
           </form>
