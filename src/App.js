@@ -47,19 +47,19 @@ function App() {
       <div className="collapse navbar-collapse" id="navbarResponsive">
         <ul className="navbar-nav text-uppercase ml-auto">
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#services" style={{color: 'white'}}>Services</a>
+            <a className="nav-link js-scroll-trigger" href="#services" style={{color: 'yellow'}}>Services</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#portfolio" style={{color: 'white'}}>Portfolio</a>
+            <a className="nav-link js-scroll-trigger" href="#portfolio" style={{color: 'yellow'}}>Portfolio</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#about" style={{color: 'white'}}>About</a>
+            <a className="nav-link js-scroll-trigger" href="#about" style={{color: 'yellow'}}>About</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#team" style={{color: 'white'}}>Team</a>
+            <a className="nav-link js-scroll-trigger" href="#team" style={{color: 'yellow'}}>Team</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#contact" style={{color: 'white'}}>Contact</a>
+            <a className="nav-link js-scroll-trigger" href="#contact" style={{color: 'yellow'}}>Contact</a>
           </li>
         </ul>
       </div>
@@ -72,7 +72,7 @@ function App() {
       <div className="intro-text">
         <div className="intro-lead-in" style={{color: 'yellow'}}>Welcome To Our Studio!</div>
         <div className="intro-heading text-uppercase" style={{color: 'yellow'}}>It's Nice To Meet You</div>
-        <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services" style={{backgroundColor: 'yellow', borderColor: 'red'}}>Tell Me More</a>
+        <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services" style={{backgroundColor: 'red', borderColor: 'red'}}>Tell Me More</a>
       </div>
     </div>
   </header>
