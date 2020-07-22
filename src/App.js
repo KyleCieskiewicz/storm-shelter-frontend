@@ -47,10 +47,10 @@ function App() {
       <div className="collapse navbar-collapse" id="navbarResponsive">
         <ul className="navbar-nav text-uppercase ml-auto">
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#services" style={{color: 'white'}}>Services</a>
+            <a className="nav-link js-scroll-trigger" href="#services" style={{color: 'white'}}>Twister tales and Safety</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#portfolio" style={{color: 'white'}}>Portfolio</a>
+            <a className="nav-link js-scroll-trigger" href="#portfolio" style={{color: 'white'}}>Shelters</a>
           </li>
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#about" style={{color: 'white'}}>About</a>
