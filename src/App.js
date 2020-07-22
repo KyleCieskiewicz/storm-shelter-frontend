@@ -200,7 +200,7 @@ function App() {
   </section>
 
   
-  <section className="bg-light page-section" id="team">
+  {/* <section className="bg-light page-section" id="team">
     <div className="container">
       <div className="row">
         <div className="col-lg-12 text-center">
@@ -288,7 +288,7 @@ function App() {
         </div>
       </div>
     </div>
-  </section>
+  </section> */}
 
   
   <section className="py-5">
