@@ -55,9 +55,9 @@ function App() {
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#about" style={{color: 'white'}}>About</a>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#team" style={{color: 'white'}}>Team</a>
-          </li>
+          </li> */}
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#contact" style={{color: 'white'}}>Contact</a>
           </li>
