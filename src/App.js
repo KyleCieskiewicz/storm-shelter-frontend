@@ -47,7 +47,7 @@ function App() {
       <div className="collapse navbar-collapse" id="navbarResponsive">
         <ul className="navbar-nav text-uppercase ml-auto">
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#services" style={{color: 'white'}}>Twister tales and Safety</a>
+            <a className="nav-link js-scroll-trigger" href="#services" style={{color: 'white'}}>Twister Tales and Safety</a>
           </li>
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#portfolio" style={{color: 'white'}}>Shelters</a>
@@ -79,7 +79,7 @@ function App() {
     <div className="container">
       <div className="row">
         <div className="col-lg-12 text-center">
-          <h2 className="section-heading text-uppercase">Services</h2>
+          <h2 className="section-heading text-uppercase">Twister Tales and Safety</h2>
           <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
         </div>
       </div>
@@ -105,7 +105,7 @@ function App() {
             <i className="fa fa-circle fa-stack-2x text-primary"></i>
             <i className="fa fa-lock fa-stack-1x fa-inverse"></i>
           </span>
-          <h4 className="service-heading">Web Security</h4>
+          <h4 className="service-heading">Shelter Videos</h4>
           <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
         </div>
       </div>
@@ -134,7 +134,7 @@ function App() {
               <div className="timeline-panel">
                 <div className="timeline-heading">
                   <h4>2009-2011</h4>
-                  <h4 className="subheading">Our Humble Beginnings</h4>
+                  <h4 className="subheading">Location</h4>
                 </div>
                 <div className="timeline-body">
                   <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
@@ -148,7 +148,7 @@ function App() {
               <div className="timeline-panel">
                 <div className="timeline-heading">
                   <h4>March 2011</h4>
-                  <h4 className="subheading">An Agency is Born</h4>
+                  <h4 className="subheading">Phone</h4>
                 </div>
                 <div className="timeline-body">
                   <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
@@ -162,14 +162,14 @@ function App() {
               <div className="timeline-panel">
                 <div className="timeline-heading">
                   <h4>December 2012</h4>
-                  <h4 className="subheading">Transition to Full Service</h4>
+                  <h4 className="subheading">Hours</h4>
                 </div>
                 <div className="timeline-body">
                   <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
                 </div>
               </div>
             </li>
-            <li className="timeline-inverted">
+            {/* <li className="timeline-inverted">
               <div className="timeline-image">
                 <img className="rounded-circle img-fluid" src="img/about/4.jpg" alt=""/>
               </div>
@@ -189,7 +189,7 @@ function App() {
                   <br/>Of Our
                   <br/>Story!</h4>
               </div>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>
