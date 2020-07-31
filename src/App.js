@@ -20,19 +20,19 @@ function App() {
     {
       title: 'Lines',
       caption: 'Branding'
-    },
-    {
-      title: 'Southwest',
-      caption: 'Website Design'
-    },
-    {
-      title: 'Window',
-      caption: 'Photography'
-    },
-    {
-      title: 'Pizza',
-      caption: 'I love pizza!'
     }
+    // {
+    //   title: 'Southwest',
+    //   caption: 'Website Design'
+    // },
+    // {
+    //   title: 'Window',
+    //   caption: 'Photography'
+    // },
+    // {
+    //   title: 'Pizza',
+    //   caption: 'I love pizza!'
+    // }
   ]
 
   return (
