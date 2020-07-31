@@ -6,19 +6,19 @@ import './App.css';
 function App() {
   const portfolioLinks = [
     {
-      title: 'Threads',
+      title: 'Concrete Storm Shelter',
       caption: 'Illustration'
     },
     {
-      title: 'Explore',
+      title: 'Garage Shelter',
       caption: 'Graphic Design'
     },
     {
-      title: 'Finish',
+      title: 'Steel Safe Room',
       caption: 'Identity'
     },
     {
-      title: 'Lines',
+      title: 'Underground Bunker',
       caption: 'Branding'
     }
     // {
