@@ -87,7 +87,7 @@ function App() {
         <div className="col-md-4">
           <span className="fa-stack fa-4x">
             <i className="fa fa-circle fa-stack-2x text-primary"></i>
-            <i className="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+            <i className="fa fa-plus fa-stack-1x fa-inverse"></i>
           </span>
           <h4 className="service-heading">The Tornado Tips</h4>
           <p className="text-muted">Click to below download our Timmy The Tornado – Tornado Tips Coloring Book. You can never be over prepared. Teach your kids these important procedures in case of a tornado touching down near you.</p>
@@ -95,7 +95,7 @@ function App() {
         <div className="col-md-4">
           <span className="fa-stack fa-4x">
             <i className="fa fa-circle fa-stack-2x text-primary"></i>
-            <i className="fa fa-laptop fa-stack-1x fa-inverse"></i>
+            <i className="fa fa-shield fa-stack-1x fa-inverse"></i>
           </span>
           <h4 className="service-heading">Protecting your family from a tornado</h4>
           <p className="text-muted">So many have a fear of tornadoes and for a very good reason. These storms have the ability to destroy property and take lives. The good news is you can protect your family from these violent storms. By purchasing an F5 Storm Shelter you will see the quality that our...</p>
@@ -103,7 +103,7 @@ function App() {
         <div className="col-md-4">
           <span className="fa-stack fa-4x">
             <i className="fa fa-circle fa-stack-2x text-primary"></i>
-            <i className="fa fa-lock fa-stack-1x fa-inverse"></i>
+            <i className="fa fa-question fa-stack-1x fa-inverse"></i>
           </span>
           <h4 className="service-heading">How many people can my Storm Shelter or Safe Room hold?</h4>
           <p className="text-muted"> This depends on the size of the Storm Shelter or Safe Room. Underground Garage Tornado Shelters come in 4 sizes and can hold 4-16 people. Underground Cement Shelters come in 4 sizes and can hold 4-16 people. Safe Rooms come in 6 sizes and can hold 4-20 people.</p>
