@@ -158,7 +158,8 @@ function App() {
           
             <li className="timeline-inverted">
               <div className="timeline-image">
-                <h4>Phone</h4>
+                <h4 style={{color: 'black'}}>Phone</h4>
+                <h5 style={{color: 'black'}}>662-488-7664</h5>
               </div>
 
 
