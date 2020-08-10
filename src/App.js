@@ -7,27 +7,27 @@ import Header from './components/Header';
 import Shelter from './components/Shelter';
 
 class App extends Component {
-  state = {
-    portfolioLinks: [
-    {
-      title: 'Concrete Storm Shelter',
-      caption: 'Illustration'
-    },
-    {
-      title: 'Garage Shelter',
-      caption: 'Graphic Design'
-    },
-    {
-      title: 'Steel Safe Room',
-      caption: 'Identity'
-    },
-    {
-      title: 'Underground Bunker',
-      caption: 'Branding'
-    }
+//   state = {
+//     portfolioLinks: [
+//     {
+//       title: 'Concrete Storm Shelter',
+//       caption: 'Illustration'
+//     },
+//     {
+//       title: 'Garage Shelter',
+//       caption: 'Graphic Design'
+//     },
+//     {
+//       title: 'Steel Safe Room',
+//       caption: 'Identity'
+//     },
+//     {
+//       title: 'Underground Bunker',
+//       caption: 'Branding'
+//     }
 
-  ]
-};
+//   ]
+// };
 
 render() {
   return (
