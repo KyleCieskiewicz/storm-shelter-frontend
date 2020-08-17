@@ -6,19 +6,19 @@ export class Portfolio extends Component {
     portfolioLinks: [
     {
       title: 'Concrete Storm Shelter',
-      caption: 'Illustration'
+      caption: 'concrete'
     },
     {
       title: 'Garage Shelter',
-      caption: 'Graphic Design'
+      caption: 'logo192'
     },
     {
       title: 'Steel Safe Room',
-      caption: 'Identity'
+      caption: 'logo192'
     },
     {
       title: 'Underground Bunker',
-      caption: 'Branding'
+      caption: 'logo192'
     }
 
   ]
@@ -45,7 +45,8 @@ export class Portfolio extends Component {
                                 </div>
                             </div>
                             {/* <img className="img-fluid" src={ `https://unsplash.it/350/140/?${Math.floor(Math.random(0,100) * 100)}` } alt="portfolio_img" /> */}
-                            <img src="concrete.png" alt="portfolio_img"></img>
+                            {/* <img src="concrete.png" alt="portfolio_img"></img> */}
+                            <img src={`${caption}.png`} alt="portfolio_img"></img>
                            
                         </a>
                         <div className="portfolio-caption">
