@@ -44,7 +44,8 @@ export class Portfolio extends Component {
                                     <i className="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img className="img-fluid" src={ `https://unsplash.it/350/140/?${Math.floor(Math.random(0,100) * 100)}` } alt="portfolio_img" />
+                            {/* <img className="img-fluid" src={ `https://unsplash.it/350/140/?${Math.floor(Math.random(0,100) * 100)}` } alt="portfolio_img" /> */}
+                            <img src="concrete.png" alt="portfolio_img"></img>
                            
                         </a>
                         <div className="portfolio-caption">
