@@ -38,15 +38,12 @@ export class Portfolio extends Component {
             {
                 this.state.portfolioLinks && this.state.portfolioLinks.map(({ title, caption }, index) => 
                     <div className="col-md-4 col-sm-6 portfolio-item">
-                        {/* <a className="portfolio-link" data-toggle="modal" href="#portfolioModal1"> */}
                         <a className="portfolio-link" data-toggle="modal" href="/shelter">
                             <div className="portfolio-hover">
                                 <div className="portfolio-hover-content">
                                     <i className="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            {/* <img className="img-fluid" src={ `https://unsplash.it/350/140/?${Math.floor(Math.random(0,100) * 100)}` } alt="portfolio_img" /> */}
-                            {/* <img src="concrete.png" alt="portfolio_img"></img> */}
                             <img src={`${caption}.png`} alt="portfolio_img"></img>
                            
                         </a>
