@@ -38,7 +38,8 @@ export class Portfolio extends Component {
             {
                 this.state.portfolioLinks && this.state.portfolioLinks.map(({ title, caption }, index) => 
                     <div className="col-md-4 col-sm-6 portfolio-item">
-                        <a className="portfolio-link" data-toggle="modal" href="#portfolioModal1">
+                        {/* <a className="portfolio-link" data-toggle="modal" href="#portfolioModal1"> */}
+                        <a className="portfolio-link" data-toggle="modal" href="/shelter">
                             <div className="portfolio-hover">
                                 <div className="portfolio-hover-content">
                                     <i className="fa fa-plus fa-3x"></i>
